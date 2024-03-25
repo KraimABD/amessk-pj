@@ -1,6 +1,9 @@
 # amessk-project
 
-
+## Introduction 
+* Hello world
+* BooM
+- [ ] Save and quit the file
 
 ## Getting started
 
